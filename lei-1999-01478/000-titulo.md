@@ -1,0 +1,2 @@
+# LEI N.º 1.478/99 INSTITUI O DIA MUNICIPAL DA BELEZA NEGRA E DÁ OUTRAS PROVIDÊNCIAS.
+O PREFEITO MUNICIPAL DE JEQUIÉ, ESTADO DA BAHIA, faço saber que a Câmara aprovou, e eu sanciono a seguinte Lei:
