@@ -1,0 +1,61 @@
+{
+ "country": "BR-BA-JEQUIE",
+ "acts": [
+  {
+   "slug": "lei-2025-02481",
+   "short": "Lei 2481/2025",
+   "title": "Lei nº 2.481, de 31 de outubro de 2025",
+   "url": "https://sapl.jequie.ba.leg.br/norma/1765",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 7,
+     "source_url": "https://sapl.jequie.ba.leg.br/media/sapl/public/normajuridica/2025/1765/lei_no_2.481-cria_cargo_de_entrevistador_e_pedagogo_social.pdf",
+     "sha256": "d9cd03138d3c7b5ca06f1d872ed06e500f0d25f4b16ecf2d5cbef882239bdb32"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-02480",
+   "short": "Lei 2480/2025",
+   "title": "Lei nº 2.480, de 31 de outubro de 2025",
+   "url": "https://sapl.jequie.ba.leg.br/norma/1766",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 3,
+     "source_url": "https://sapl.jequie.ba.leg.br/media/sapl/public/normajuridica/2025/1766/lei_no_2.480-_alteracao_da_carga_horaria_dos_efetivos.pdf",
+     "sha256": "d228a16ce01514d912769109557f6a4a19b7e175b34ff0048c6953e2465f10d7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-02444",
+   "short": "Lei 2444/2025",
+   "title": "Lei nº 2.444, de 14 de abril de 2025",
+   "url": "https://sapl.jequie.ba.leg.br/norma/1714",
+   "versions": [
+    {
+     "from": "2025-04-14",
+     "units": 29,
+     "source_url": "https://sapl.jequie.ba.leg.br/media/sapl/public/normajuridica/2025/1714/lei_no_2.444.2025.pdf",
+     "sha256": "adc76faab3ddfedbd20807a8a273461a5a189dc7e51b49a83e2b303253ce5d38"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-02439",
+   "short": "Lei 2439/2025",
+   "title": "Lei nº 2.439, de 9 de abril de 2025",
+   "url": "https://sapl.jequie.ba.leg.br/norma/1715",
+   "versions": [
+    {
+     "from": "2025-04-09",
+     "units": 4,
+     "source_url": "https://sapl.jequie.ba.leg.br/media/sapl/public/normajuridica/2025/1715/lei_no_2.439.2025.pdf",
+     "sha256": "58ea312a614eaee8d21c9e4041b7438a42c848eaa754b3332a691b73f1a4b3ef"
+    }
+   ]
+  }
+ ]
+}

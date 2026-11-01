@@ -1,0 +1,9 @@
+{
+  "path": "br-ba-jequie",
+  "code": "BR-BA-JEQUIE",
+  "name": "Jequié (city)",
+  "level": "municipality",
+  "parent": "br-ba",
+  "repo": "https://github.com/lexifina/brazil-jequie-city-law",
+  "build": "built: the law of Jequié from the Câmara Municipal's SAPL"
+}
