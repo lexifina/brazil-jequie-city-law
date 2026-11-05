@@ -56,6 +56,20 @@
      "sha256": "58ea312a614eaee8d21c9e4041b7438a42c848eaa754b3332a691b73f1a4b3ef"
     }
    ]
+  },
+  {
+   "slug": "lei-2024-02418",
+   "short": "Lei 2418/2024",
+   "title": "Lei nº 2.418, de 21 de outubro de 2024",
+   "url": "https://sapl.jequie.ba.leg.br/norma/1605",
+   "versions": [
+    {
+     "from": "2024-10-21",
+     "units": 4,
+     "source_url": "https://sapl.jequie.ba.leg.br/media/sapl/public/normajuridica/2024/1605/lei_no2.418-2024.pdf",
+     "sha256": "2eea0400193278f1fb65d309c452eec0299f2d91130a210c8db5c4162d90645b"
+    }
+   ]
   }
  ]
 }
