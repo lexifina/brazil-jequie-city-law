@@ -112,6 +112,202 @@
      "sha256": "ba1067b1d0ce172bba5a626e060672597413584986b744456e38c4f308eb9770"
     }
    ]
+  },
+  {
+   "slug": "lei-1999-01493",
+   "short": "Lei 1493/1999",
+   "title": "Lei nº 1.493, de 3 de dezembro de 1999",
+   "url": "https://sapl.jequie.ba.leg.br/norma/1064",
+   "versions": [
+    {
+     "from": "1999-12-03",
+     "units": 9,
+     "source_url": "https://sapl.jequie.ba.leg.br/media/sapl/public/normajuridica/1999/1064/lei1493.pdf",
+     "sha256": "ec9e61313c5c2c98423053d21ab0ef3a13a47a7acfc7794c858c95c3d35bba44"
+    }
+   ]
+  },
+  {
+   "slug": "lei-1999-01492",
+   "short": "Lei 1492/1999",
+   "title": "Lei nº 1.492, de 3 de dezembro de 1999",
+   "url": "https://sapl.jequie.ba.leg.br/norma/1063",
+   "versions": [
+    {
+     "from": "1999-12-03",
+     "units": 8,
+     "source_url": "https://sapl.jequie.ba.leg.br/media/sapl/public/normajuridica/1999/1063/lei1492.pdf",
+     "sha256": "3d91c5796221f8a480276d94411a17a1e42448bbccf9e618f32fc2e7870e569f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-1999-01489",
+   "short": "Lei 1489/1999",
+   "title": "Lei nº 1.489, de 5 de novembro de 1999",
+   "url": "https://sapl.jequie.ba.leg.br/norma/1060",
+   "versions": [
+    {
+     "from": "1999-11-05",
+     "units": 3,
+     "source_url": "https://sapl.jequie.ba.leg.br/media/sapl/public/normajuridica/1999/1060/lei1489.pdf",
+     "sha256": "ee23842887a39a267997ddfa60286d2af30adc4dea7b23f96b2dfeb5a956b851"
+    }
+   ]
+  },
+  {
+   "slug": "lei-1999-01488",
+   "short": "Lei 1488/1999",
+   "title": "Lei nº 1.488, de 5 de novembro de 1999",
+   "url": "https://sapl.jequie.ba.leg.br/norma/1059",
+   "versions": [
+    {
+     "from": "1999-11-05",
+     "units": 4,
+     "source_url": "https://sapl.jequie.ba.leg.br/media/sapl/public/normajuridica/1999/1059/lei1488.pdf",
+     "sha256": "d1ac849049e826824970878e994dba782cdc917c4840d68e5a108fcfb321c6e9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-1999-01487",
+   "short": "Lei 1487/1999",
+   "title": "Lei nº 1.487, de 20 de outubro de 1999",
+   "url": "https://sapl.jequie.ba.leg.br/norma/1058",
+   "versions": [
+    {
+     "from": "1999-10-20",
+     "units": 3,
+     "source_url": "https://sapl.jequie.ba.leg.br/media/sapl/public/normajuridica/1999/1058/lei1487.pdf",
+     "sha256": "0e56384e8f1e3e3de8ddc19e2e70c4c46f553f3e476f91e195bf9a274e701d51"
+    }
+   ]
+  },
+  {
+   "slug": "lei-1999-01486",
+   "short": "Lei 1486/1999",
+   "title": "Lei nº 1.486, de 1 de outubro de 1999",
+   "url": "https://sapl.jequie.ba.leg.br/norma/1057",
+   "versions": [
+    {
+     "from": "1999-10-01",
+     "units": 3,
+     "source_url": "https://sapl.jequie.ba.leg.br/media/sapl/public/normajuridica/1999/1057/lei1486.pdf",
+     "sha256": "0d92f68093af6b31a043baed1ba68658d530190ce1fa9fd3d8e4e00c19f07292"
+    }
+   ]
+  },
+  {
+   "slug": "lei-1999-01485",
+   "short": "Lei 1485/1999",
+   "title": "Lei nº 1.485, de 26 de setembro de 1999",
+   "url": "https://sapl.jequie.ba.leg.br/norma/1056",
+   "versions": [
+    {
+     "from": "1999-09-26",
+     "units": 5,
+     "source_url": "https://sapl.jequie.ba.leg.br/media/sapl/public/normajuridica/1999/1056/lei1485.pdf",
+     "sha256": "044e56219f4c4df9539f76eba9867e943e5e165dd809d934f3647d918b0ed006"
+    }
+   ]
+  },
+  {
+   "slug": "lei-1999-01482",
+   "short": "Lei 1482/1999",
+   "title": "Lei nº 1.482, de 7 de julho de 1999",
+   "url": "https://sapl.jequie.ba.leg.br/norma/1053",
+   "versions": [
+    {
+     "from": "1999-07-07",
+     "units": 4,
+     "source_url": "https://sapl.jequie.ba.leg.br/media/sapl/public/normajuridica/1999/1053/lei1482.pdf",
+     "sha256": "5b49f3c8ae4c30faa5c3a0382067acb30a53c4c84db85347f59ff16982bb9d29"
+    }
+   ]
+  },
+  {
+   "slug": "lei-1999-01481",
+   "short": "Lei 1481/1999",
+   "title": "Lei nº 1.481, de 23 de junho de 1999",
+   "url": "https://sapl.jequie.ba.leg.br/norma/1052",
+   "versions": [
+    {
+     "from": "1999-06-23",
+     "units": 8,
+     "source_url": "https://sapl.jequie.ba.leg.br/media/sapl/public/normajuridica/1999/1052/lei1481.pdf",
+     "sha256": "a06d8bfc1a2baa26b1bb7bf28c7d027ee492732a34a798dcd5f8b3297ed2b818"
+    }
+   ]
+  },
+  {
+   "slug": "lei-1999-01478",
+   "short": "Lei 1478/1999",
+   "title": "Lei nº 1.478, de 28 de maio de 1999",
+   "url": "https://sapl.jequie.ba.leg.br/norma/1049",
+   "versions": [
+    {
+     "from": "1999-05-28",
+     "units": 5,
+     "source_url": "https://sapl.jequie.ba.leg.br/media/sapl/public/normajuridica/1999/1049/lei1478.pdf",
+     "sha256": "c6d27e0fd6a7338eced35c67521b06e0e479b3223efc458f1cfcf2816059eb99"
+    }
+   ]
+  },
+  {
+   "slug": "lei-1999-01477",
+   "short": "Lei 1477/1999",
+   "title": "Lei nº 1.477, de 28 de maio de 1999",
+   "url": "https://sapl.jequie.ba.leg.br/norma/1048",
+   "versions": [
+    {
+     "from": "1999-05-28",
+     "units": 6,
+     "source_url": "https://sapl.jequie.ba.leg.br/media/sapl/public/normajuridica/1999/1048/lei1477.pdf",
+     "sha256": "8d53ed16b17a1a0647b32135b72d2d52784b2d6f18c778931c666d65d674d54e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-1999-01480",
+   "short": "Lei 1480/1999",
+   "title": "Lei nº 1.480, de 6 de maio de 1999",
+   "url": "https://sapl.jequie.ba.leg.br/norma/1051",
+   "versions": [
+    {
+     "from": "1999-05-06",
+     "units": 3,
+     "source_url": "https://sapl.jequie.ba.leg.br/media/sapl/public/normajuridica/1999/1051/lei1480.pdf",
+     "sha256": "ac4a0bb24354826e535702fdf06274d0074c0b4b063bc9120c7cd3f53f7afd85"
+    }
+   ]
+  },
+  {
+   "slug": "lei-1999-01476",
+   "short": "Lei 1476/1999",
+   "title": "Lei nº 1.476, de 6 de maio de 1999",
+   "url": "https://sapl.jequie.ba.leg.br/norma/1047",
+   "versions": [
+    {
+     "from": "1999-05-06",
+     "units": 4,
+     "source_url": "https://sapl.jequie.ba.leg.br/media/sapl/public/normajuridica/1999/1047/lei1476.pdf",
+     "sha256": "eab01626829198e6db66ca12b7ee3f6f1c9a8b11bdef438eaaa2930ec3ad50c5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-1999-01475",
+   "short": "Lei 1475/1999",
+   "title": "Lei nº 1.475, de 6 de maio de 1999",
+   "url": "https://sapl.jequie.ba.leg.br/norma/1046",
+   "versions": [
+    {
+     "from": "1999-05-06",
+     "units": 3,
+     "source_url": "https://sapl.jequie.ba.leg.br/media/sapl/public/normajuridica/1999/1046/lei1475.pdf",
+     "sha256": "d94c2e01da524e648ffc5405b0b71421a8f9e727bc92d4c5054554bd2e9cdb35"
+    }
+   ]
   }
  ]
 }
