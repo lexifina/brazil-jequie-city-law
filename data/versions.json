@@ -98,6 +98,20 @@
      "sha256": "edc54f9dee367fd66113550115f3d43339df54cec92282e9b4884833cf4d3f25"
     }
    ]
+  },
+  {
+   "slug": "lei-2008-01797",
+   "short": "Lei 1797/2008",
+   "title": "Lei nº 1.797, de 23 de dezembro de 2008",
+   "url": "https://sapl.jequie.ba.leg.br/norma/379",
+   "versions": [
+    {
+     "from": "2008-12-23",
+     "units": 24,
+     "source_url": "https://sapl.jequie.ba.leg.br/media/sapl/public/normajuridica/2008/379/lei1797.pdf",
+     "sha256": "ba1067b1d0ce172bba5a626e060672597413584986b744456e38c4f308eb9770"
+    }
+   ]
   }
  ]
 }

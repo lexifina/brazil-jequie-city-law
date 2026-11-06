@@ -26,6 +26,12 @@
     "lei-2010-01822"
    ],
    "sha256": "bd4e9c4b8bab9366e75653253d3c9fab674f02ecd6c8eb03bae6fda86097f07b"
+  },
+  "30-leis-017.json": {
+   "acts": [
+    "lei-2008-01797"
+   ],
+   "sha256": "a789f549a87c0a4d221c56b8cdedb055ab4eb4ac155980e1842a1ceb290017ab"
   }
  },
  "schema": 1
