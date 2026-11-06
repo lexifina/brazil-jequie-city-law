@@ -70,6 +70,20 @@
      "sha256": "2eea0400193278f1fb65d309c452eec0299f2d91130a210c8db5c4162d90645b"
     }
    ]
+  },
+  {
+   "slug": "lei-2016-01992",
+   "short": "Lei 1992/2016",
+   "title": "Lei nº 1.992, de 1 de julho de 2016",
+   "url": "https://sapl.jequie.ba.leg.br/norma/337",
+   "versions": [
+    {
+     "from": "2016-07-01",
+     "units": 102,
+     "source_url": "https://sapl.jequie.ba.leg.br/media/sapl/public/normajuridica/2016/337/lei_no_1.992__plano_de_cargos_funcionarios.pdf",
+     "sha256": "ba1f995310484a65111ffc4079b889c7144025a74ebb2ce3a87fd0258efaf816"
+    }
+   ]
   }
  ]
 }
