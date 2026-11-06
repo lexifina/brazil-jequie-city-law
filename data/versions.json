@@ -84,6 +84,20 @@
      "sha256": "ba1f995310484a65111ffc4079b889c7144025a74ebb2ce3a87fd0258efaf816"
     }
    ]
+  },
+  {
+   "slug": "lei-2010-01822",
+   "short": "Lei 1822/2010",
+   "title": "Lei nº 1.822, de 22 de janeiro de 2010",
+   "url": "https://sapl.jequie.ba.leg.br/norma/1",
+   "versions": [
+    {
+     "from": "2010-10-22",
+     "units": 3,
+     "source_url": "https://sapl.jequie.ba.leg.br/media/sapl/public/normajuridica/2010/1/lei1.822.pdf",
+     "sha256": "edc54f9dee367fd66113550115f3d43339df54cec92282e9b4884833cf4d3f25"
+    }
+   ]
   }
  ]
 }

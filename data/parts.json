@@ -20,6 +20,12 @@
     "lei-2016-01992"
    ],
    "sha256": "038d8797dd12f791968c34a89b5269a72e5ff4b487105d0a167c78dac0faa75f"
+  },
+  "30-leis-016.json": {
+   "acts": [
+    "lei-2010-01822"
+   ],
+   "sha256": "bd4e9c4b8bab9366e75653253d3c9fab674f02ecd6c8eb03bae6fda86097f07b"
   }
  },
  "schema": 1
